@@ -1,6 +1,7 @@
 # House-Price-Predictor
 
 To run this project, following dependencies are required-
+
   --> flask
        To install flask in your system, use command 
        >> pip install flask
