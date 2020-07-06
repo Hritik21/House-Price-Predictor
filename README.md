@@ -25,6 +25,6 @@ To run the project in your system, type command in your command prompt or termin
 >> python app.py
 
 <p>
-    <img src="screenshots/Capture.png" width="220" height="240" />
+    <img src="screenshots/Capture.PNG"/>
 </p>
        
