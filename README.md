@@ -23,4 +23,8 @@ To install pickle in your system, use command
 
 To run the project in your system, type command in your command prompt or terminal
 >> python app.py
+
+<p>
+    <img src="screenshots/Capture.png" width="220" height="240" />
+</p>
        
